@@ -67,7 +67,7 @@
           </suiteXmlFiles>
         </configuration>
       </plugin>
-   
+
 </plugins>
   </build>
   </profile>
