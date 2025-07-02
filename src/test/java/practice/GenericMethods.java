@@ -14,7 +14,6 @@ public class GenericMethods {
 		System.out.println(add(40,sum));
 		System.out.println(add(40,sum));
 		
-		
 		int sum2= add(sum,70);
 		System.out.println(sum2);
 		
